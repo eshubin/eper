@@ -1,9 +1,28 @@
-commit 322b5925e90c2be84bea2bbca5c0ef0a5fe32cd3
+commit dcb54c938d5a1e377dc909906ed838a8a4b910c2
+Author: mats cronqvist <masse@klarna.com>
+Date:   Fri Dec 6 17:47:37 2013 +0100
+
+    v0.76
+
+src/eper.app.src
+
+commit 6cf9c93618ce18b01829433ed5d1af3c73e5f86b
+Author: mats cronqvist <masse@klarna.com>
+Date:   Fri Dec 6 17:46:15 2013 +0100
+
+    renamed getopt to solve name clash
+
+src/eper.erl
+src/getopt.erl
+src/getoptw.erl
+
+commit 2ad3cdcb41823eea2512e2d2d6fe3392582d3297
 Author: mats cronqvist <masse@klarna.com>
 Date:   Fri Dec 6 12:41:04 2013 +0100
 
     v0.75
 
+ChangeLog
 src/eper.app.src
 
 commit 3ae6aacc5c63ea80e290c11fa30577eb9a09a895
